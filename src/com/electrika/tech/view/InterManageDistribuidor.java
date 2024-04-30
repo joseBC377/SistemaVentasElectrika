@@ -193,8 +193,6 @@ public class InterManageDistribuidor extends javax.swing.JInternalFrame {
 
         labelAntesResu.setText("se encuentra en la fila: ");
         jPanel1.add(labelAntesResu, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 490, 200, 30));
-
-        labelResultado.setText("fila");
         jPanel1.add(labelResultado, new org.netbeans.lib.awtextra.AbsoluteConstraints(1000, 520, 50, -1));
 
         labelBuscar.setBackground(new java.awt.Color(0, 0, 102));

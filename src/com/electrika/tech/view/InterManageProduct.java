@@ -430,8 +430,6 @@ public class InterManageProduct extends javax.swing.JInternalFrame {
         labelBuscarB.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/electrika/tech/img/lupa1.png"))); // NOI18N
         jPanel7.add(labelBuscarB, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 240, -1, -1));
         jPanel7.add(labelAntesResu, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 350, 220, 30));
-
-        labelResultado.setText("fila");
         jPanel7.add(labelResultado, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 380, 50, -1));
         jPanel7.add(jSeparator3, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 220, 250, 20));
 
